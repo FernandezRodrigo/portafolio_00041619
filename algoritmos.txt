@@ -1,0 +1,23 @@
+//algoritmo 1//
+int segundoelemnto(stack s){
+if (empty(s))
+return -1
+i=pop (s)
+if (empty(s))
+return -1
+i=pop (S)
+return 1
+}
+
+//algoritmo 2//
+int leerelemento(stack s){
+if (empty(s))
+return -1
+ar=pop (s)
+if (empty(s))
+return -1
+seg=pop (S)
+push(s, seg)
+push(s, ar)
+return seg
+}
