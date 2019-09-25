@@ -1,0 +1,28 @@
+EJERCICIO 1: A-B/(C*D$E)
+
+Modificando la multiplicacion y el exponente: A-B/(CDE$*)
+
+Modificando la division: -CDE$*AB/
+
+Modificando la resta la resta: CDE$*AB/-
+
+Respuesta:
+
+CDE$*AB/-
+
+
+EJERCICIO 2: ((A+B)*C-(D-E))$(F+G)
+
+Modificando la suma de A+B: ((AB+)*C-(D-E))$(F+G)
+
+Modificando la resta D-E: ((AB+)*C-(DE-))$(F+G)
+
+Modificando la multiplicacion y resta de C: ((AB+)(DE-)C*-)$(F+G)
+
+Modificando la suma F+G: ((AB+)(DE-)C*-)$(FG+)
+
+Modificando el exponente: ((AB+)(DE-)C*-)(FG+$)
+
+Respuesta:
+
+AB+DE-C*-FG+$
