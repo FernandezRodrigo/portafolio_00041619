@@ -1,0 +1,60 @@
+Primer Arbol:
+1) 
+-Raíz: Nodo A
+-Ramas: Nodos B y C
+-Hojas: Nodos G,H,I,F
+
+2) 
+-Nivel 0: A
+-Nivel 1: B,C
+-Nivel 2: D,E,F
+-Nivel 3: G,H,I
+
+3) 
+-Profundidad: 3
+-Peso: 9
+-Orden: 2
+
+4) 
+-Solo tiene un sub-arbol derecho
+
+5) 
+-No es lleno, porque hay un nodo que solo tiene un hijo.
+
+6) 
+-No, no es perfecto. Porque antes debe cumplir ser lleno, y este no lo es.
+
+7) 
+-In-orden: D,G,B,A,H,E,I,C,F
+-Pre-orden: A,B,D,G,C,E,H,I,F
+-Post-Orden: G,D,B,H,I,E,F,C,A
+
+Segundo Ejercicio:
+1)
+-Raiz:Nodo A
+-Ramas:Nodo B
+-Hojas: Nodos C,D,E,F,G,H,I,J,K,L
+
+2)Nivel de cada nodo 
+-Nivel 0:A
+-Nivel 1:B
+-Nivel 2:C,D
+-Nivel 3:E,F,G,H
+-Nivel 4:I,J,K,L
+
+3)Profundidad,peso y orden
+-Profundidad: 4, Peso: 12,Orden:2
+
+4)sub arbol
+-tiene un sub arbol a la derecha
+
+5)Determinar si es lleno o estricto
+-Tampoco es lleno porque hay tres nodos con un solo hijo
+
+6)Determinar si es perfecto o completo
+-No lo es, porque no es lleno
+
+7)Recorridos:
+-In-orden:E,I,C,F,J,B,G,D,K,H,A,L
+-Pre-orden:A,B,C,E,I,F,J,D,G,H,K,L
+-Post-orden:I,E,J,F,C,G,K,L,H,D,B,A
