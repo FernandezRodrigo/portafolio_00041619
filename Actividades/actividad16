@@ -1,0 +1,31 @@
+Primer Arbol
+Eliminando el 95:
+el 84 pasa a la posicion del 95 y se elimina.
+Eiminando el 72:
+gira hacia la derecha quedando el 72 solo, entonces estando solo se elimina.
+Eliminando el 84:
+el 82 pasa a la posicion del 84 y se elimina.
+Eliminando el 100:
+el 105 pasa a la posicion del 100 y se elimina.
+Eliminando el 82:
+el 81 pasa a la posicon del 82 y se elimina.   
+
+Tercer Arbol
+Eliminando el 25:
+giro hacias la derecha y se elimina.
+Eliminando el 75:
+el 73 pasa a la posicion del 75 y se elimina.
+Eliminando el 66:
+se elimina inmediatamente.
+Eliminando el 65:
+el 62 pasa a la posicion del 65 y se elimina.
+Eliminando el 62:
+el 60 pasa a la posicion del 62 y se elimina.
+Eliminando el 10:
+se elimina inmediatamente.
+Eliminando el 43:
+el 58 pasa a la posicion del 43 y se elimina.
+Eliminando el 47:
+se elimina inmediatamente 
+
+Se hace el balanceo.
