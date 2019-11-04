@@ -10,6 +10,48 @@ el 105 pasa a la posicion del 100 y se elimina.
 Eliminando el 82:
 el 81 pasa a la posicon del 82 y se elimina.   
 
+Segundo Arbol
+dados el siguiente arbol balanceado, inserte los siguientes datos:
+86-65-70-67-73-93-69-25-66-68-47-62-10-60
+
+primero el 86 pasa al sub arbol derecho del lado derecho.
+despues el 65 pasa al sub arbol derecho del lado izquierdo.
+despues el 70 pasa al sub arbol derecho del lado izquierdo y por ser mayor que 65 se pasa al lado derecho.
+despues el 67 pasa al sub arbol derecho del lado izquierdo y por ser mayor que 65 pasa al lado derecho pero al ser menor que 70 pasa al lado izquierdo
+el 73 pasa al sub arbol derecho del lado izquierdo al ser mayor que 65 pasa al lado derecho y por ser mayor que 70 pasa al lado derecho 
+el 93 pasa al sub arbol derecho del lado derecho y por ser mayor que 86 pasa al lado derecho
+el 69 pasa al sub arbol derecho del lado izquierdo por se mayor que 65 pasa al lado derecho pero por ser menor que 70 pasa al lado izquiero y luego por ser mayor que 67 pasa al lado derecho
+el 25 pasa al sub arbol izquierdo del lado izquierdo por ser menor que 43 pasa al lado izquierdo
+el 66 pasa al sub arbol derecho del lado izuqierdo y por ser mayor que 65 se pasa al lado derecho pero por ser menor que 70 pasa al lado izquierdo y por ser menor que 67 pasa al lado izquierdo
+el 68 pasa al sub arbol derecho del lado izquierdo y por ser mayor que 65 pasa al lado derecho pero por ser menor que 70 pasa al lado izquierdo y alser mayor que 67 pasa al lado derecho pero por ser menor que 69 se mueve al lado izquierdo
+el 47 pasa al sub arbol izquierdo del lado derecho por ser mayor que 43
+el 62 pasa al sub arbol derecho del lado izquierdo izquierdo por ser menod que 65
+el 10 pasa al sub arbol izquierdo del lado izquierdo izquierdo por ser menor que 25
+el 60 pasa al sub arbol derecho del lado izquierdo de toda la rama del 65.
+
+para balancear el arbol:
+
+intercambiamos el 65 por el 70 para rama del sub arbol derecho del lado izquierdo  y ordenamos
+luego el rotando el 70 pasa hacer el termino del sub arbol derecho y ordenamos
+despues de eso el 65 pasa hacer la raiz del arbol y ordenamos
+luego el 58 pasa al sub arbol izquierdo del lado derecho por ser mayor que 43 y ordenamos y asi quedaria balanceado
+
+
+dado el siguiente arbol balanceada , elimine los siguientes datos : 25-75-66-65-62-10-43-47
+
+cuando se elimina el 25 el 10 pasa a ocupar su lugar
+cuando se elimina el 75 el 86 pasa a ocupar su lugar y el 73 queda del lado izquierdo por ser menor que 86
+cuando el 65 se elimina el 70 pasa ahora como raiz 
+cuandp se elimina el 62 el 60 pasa a ocupar su lugar
+el 10 se elimina facilmente 
+el 43 se elimina pasando el 58 a tomar su lugar 
+el 47 se elimina sin problemas
+
+luego para ordenar el arbol
+
+el 86 pasa hacer la division del sub arbol derecho dejando 73 al lado izquierdo y 93 al lado derecho
+despues el 60 pasa hacer la division del sub arbol izquierdo dejando el 58 del lado izquierdo y ordenando el lado derecho.
+
 Tercer Arbol
 Eliminando el 25:
 giro hacias la derecha y se elimina.
